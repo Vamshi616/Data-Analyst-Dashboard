@@ -6,3 +6,5 @@ Compare pay between full-time and part-time jobs.
 Analyze salaries from different job platforms.
 Create an easy-to-use Excel dashboard with filters.
 Help job seekers and recruiters understand salary patterns better.
+## Dataset-Used
+- <a href="https://github.com/Vamshi616/Data-Analyst-Dashboard/blob/main/DASHBOARD.xlsx">Devops Salary Calculator Dashboard </a>
