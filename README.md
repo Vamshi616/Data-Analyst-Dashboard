@@ -7,4 +7,13 @@ Analyze salaries from different job platforms.
 Create an easy-to-use Excel dashboard with filters.
 Help job seekers and recruiters understand salary patterns better.
 ## Dataset-Used
-- <a href="https://github.com/Vamshi616/Data-Analyst-Dashboard/blob/main/DASHBOARD.xlsx">Devops Salary Calculator Dashboard </a>
+- <a href="https://github.com/Vamshi616/Data-Analyst-Dashboard/blob/main/DASHBOARD.xlsx">Devops Salary Calculator Dashboard/Dataset </a>
+## Questions (KPI's)
+What is the median salary for each DevOps job role?
+Which country offers the highest and lowest salaries for DevOps roles?
+How do salaries differ between full-time and part-time jobs?
+Which job platform (LinkedIn, Naukri, Glassdoor, etc.) has the most job postings?
+What are the top-paying job titles in the DevOps domain?
+How does the median salary vary across countries for the same job role?
+Which countries have the most job opportunities for DevOps engineers?
+What is the average salary range across all roles and countries?
