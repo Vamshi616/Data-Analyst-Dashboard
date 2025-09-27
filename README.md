@@ -17,3 +17,5 @@
 - How does the median salary vary across countries for the same job role?
 - Which countries have the most job opportunities for DevOps engineers?
 - What is the average salary range across all roles and countries?
+## Dashboard View
+<a href="https://github.com/Vamshi616/Data-Analyst-Dashboard/blob/main/devops%20screenshot.png">View Dashboard</a>
