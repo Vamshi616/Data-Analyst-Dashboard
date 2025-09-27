@@ -27,6 +27,5 @@
 - Monitoring & Insights
 ## Dashboard Image
 <img width="1861" height="788" alt="devops screenshot" src="https://github.com/user-attachments/assets/ea0100fe-9c9e-4b5f-b4bc-d3f7491394cc" />
-## Conclusion
-
+## Final Conclusion
 This dashboard project provides a comprehensive view of global job opportunities, highlighting trends in job titles, locations, salaries, and work arrangements. It enables quick analysis of key metrics like average salary, remote work availability, and skills in demand. By visualizing data clearly, it helps users and recruiters make informed decisions efficiently. Overall, it transforms raw job data into actionable insights.
