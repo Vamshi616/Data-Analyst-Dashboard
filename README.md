@@ -19,3 +19,11 @@
 - What is the average salary range across all roles and countries?
 ## Dashboard View
 <a href="https://github.com/Vamshi616/Data-Analyst-Dashboard/blob/main/devops%20screenshot.png">View Dashboard</a>
+## Process
+- Data Collection & Preparation
+- Data Structuring & Transformation
+- Visualization Design
+- Dashboard Development
+- Monitoring & Insights
+## Dashboard Image
+<img width="1861" height="788" alt="devops screenshot" src="https://github.com/user-attachments/assets/ea0100fe-9c9e-4b5f-b4bc-d3f7491394cc" />
